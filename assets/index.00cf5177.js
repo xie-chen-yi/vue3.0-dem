@@ -1,0 +1,1 @@
+import{d as a,cp as s,cq as d,o as t,i as o,bw as c}from"./index.8d47259d.js";import"./vendor.3b1829c7.js";var e=a({});const r=c("data-v-704336aa");s("data-v-704336aa");const n={class:"test"};d();const v=r(((a,s,d,c,e,r)=>(t(),o("div",n," 位于主框架外的页面 "))));e.render=v,e.__scopeId="data-v-704336aa";export default e;
